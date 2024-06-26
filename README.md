@@ -14,7 +14,7 @@
 <img src="./src/images/huddle-landing-page-mobile-screenshot (2).png"/>
 
 ### Links
-https://rafael-gevu.github.io/quest-html-css-avancado/
+https://rafael-gevu.github.io/projeto-quest-html-css-avancado/
 
 ### Built with
 - HTML 5
